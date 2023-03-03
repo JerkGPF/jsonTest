@@ -1,0 +1,320 @@
+{
+  "code": 200,
+  "msg": "操作成功",
+  "data": {
+    "pageNum": 1,
+    "pageSize": 10,
+    "totalSize": 10,
+    "totalPages": 1,
+    "result": [
+      {
+        "type": "光年",
+        "articles": [
+          {
+            "id": 14,
+            "author": "admin",
+            "title": "这是一条测试数据",
+            "userId": 1,
+            "categoryId": 8,
+            "content": "",
+            "views": 0,
+            "totalWords": 0,
+            "commentableId": "null",
+            "artStatus": 1,
+            "description": "https://wwwv.lanzouw.com/iAT6hpflo4j",
+            "imageUrl": "http://114.117.0.103:9090/blog/blog/uploadFile/articles/6f3def8e78f8d6766f967915fffcb454.png",
+            "createTime": "2023-02-12T17:01:07",
+            "updateTime": "2023-02-12T17:01:07",
+            "tagList": [
+              {
+                "id": 4,
+                "tagName": "推荐",
+                "createTime": "null",
+                "updateTime": "null"
+              }
+            ],
+            "tagIdList": "null",
+            "categoryName": "光年"
+          }
+        ]
+      },
+      {
+        "type": "热门推荐",
+        "articles": [
+          {
+            "id": 28,
+            "author": "admin",
+            "title": "大苏打撒",
+            "userId": 1,
+            "categoryId": 3,
+            "content": "",
+            "views": 0,
+            "totalWords": 0,
+            "commentableId": "null",
+            "artStatus": 1,
+            "description": "www",
+            "imageUrl": "http://114.117.0.103:9090/blog/blog/uploadFile/articles/2ec2cf84d5e24420bf10178419d8d2e1.png",
+            "createTime": "2023-02-17T15:31:34",
+            "updateTime": "2023-02-17T15:32:59",
+            "tagList": [
+              {
+                "id": 6,
+                "tagName": "千禧",
+                "createTime": "null",
+                "updateTime": "null"
+              }
+            ],
+            "tagIdList": "null",
+            "categoryName": "热门推荐"
+          },
+          {
+            "id": 22,
+            "author": "admin",
+            "title": "求职&招聘",
+            "userId": 1,
+            "categoryId": 3,
+            "content": "",
+            "views": 0,
+            "totalWords": 0,
+            "commentableId": "null",
+            "artStatus": 1,
+            "description": "https://wwwv.lanzouw.com/iAT6hpflo4j",
+            "imageUrl": "http://114.117.0.103:9090/blog/blog/uploadFile/articles/6f3def8e78f8d6766f967915fffcb454.png",
+            "createTime": "2023-02-15T22:41:43",
+            "updateTime": "2023-02-15T22:41:43",
+            "tagList": [
+              {
+                "id": 4,
+                "tagName": "推荐",
+                "createTime": "null",
+                "updateTime": "null"
+              }
+            ],
+            "tagIdList": "null",
+            "categoryName": "热门推荐"
+          }
+        ]
+      },
+      {
+        "type": "新厦门",
+        "articles": [
+          {
+            "id": 27,
+            "author": "admin",
+            "title": "挑战答题王",
+            "userId": 1,
+            "categoryId": 6,
+            "content": "",
+            "views": 0,
+            "totalWords": 0,
+            "commentableId": "null",
+            "artStatus": 1,
+            "description": "https://tzyxk.lanzout.com/izfq70npw0fg",
+            "imageUrl": "http://114.117.0.103:9090/blog/blog/uploadFile/articles/2da5beaae71a26dfcd88a87d0b0d7938.png",
+            "createTime": "2023-02-16T14:22:55",
+            "updateTime": "2023-02-16T14:27:54",
+            "tagList": [
+              {
+                "id": 4,
+                "tagName": "推荐",
+                "createTime": "null",
+                "updateTime": "null"
+              }
+            ],
+            "tagIdList": "null",
+            "categoryName": "新厦门"
+          },
+          {
+            "id": 26,
+            "author": "admin",
+            "title": "是多少",
+            "userId": 1,
+            "categoryId": 6,
+            "content": "",
+            "views": 0,
+            "totalWords": 0,
+            "commentableId": "null",
+            "artStatus": 1,
+            "description": "ds\n",
+            "imageUrl": "http://114.117.0.103:9090/blog/blog/uploadFile/articles/6f3def8e78f8d6766f967915fffcb454.png",
+            "createTime": "2023-02-16T14:12:42",
+            "updateTime": "2023-02-16T14:12:42",
+            "tagList": [
+              {
+                "id": 3,
+                "tagName": "财神",
+                "createTime": "null",
+                "updateTime": "null"
+              }
+            ],
+            "tagIdList": "null",
+            "categoryName": "新厦门"
+          },
+          {
+            "id": 23,
+            "author": "admin",
+            "title": "咪视界",
+            "userId": 1,
+            "categoryId": 6,
+            "content": "",
+            "views": 0,
+            "totalWords": 0,
+            "commentableId": "null",
+            "artStatus": 1,
+            "description": "www.baidu.com",
+            "imageUrl": "http://114.117.0.103:9090/blog/blog/uploadFile/articles/6f3def8e78f8d6766f967915fffcb454.png",
+            "createTime": "2023-02-15T22:45:45",
+            "updateTime": "2023-02-15T22:45:45",
+            "tagList": [
+              {
+                "id": 4,
+                "tagName": "推荐",
+                "createTime": "null",
+                "updateTime": "null"
+              }
+            ],
+            "tagIdList": "null",
+            "categoryName": "新厦门"
+          }
+        ]
+      },
+      {
+        "type": "易玩",
+        "articles": [
+          {
+            "id": 21,
+            "author": "admin",
+            "title": "今日得游戏",
+            "userId": 1,
+            "categoryId": 11,
+            "content": "",
+            "views": 0,
+            "totalWords": 0,
+            "commentableId": "null",
+            "artStatus": 1,
+            "description": "www.baidu.com",
+            "imageUrl": "http://114.117.0.103:9090/blog/blog/uploadFile/articles/6f3def8e78f8d6766f967915fffcb454.png",
+            "createTime": "2023-02-15T12:28:25",
+            "updateTime": "2023-02-15T12:28:25",
+            "tagList": [
+              {
+                "id": 4,
+                "tagName": "推荐",
+                "createTime": "null",
+                "updateTime": "null"
+              },
+              {
+                "id": 8,
+                "tagName": "测试",
+                "createTime": "null",
+                "updateTime": "null"
+              }
+            ],
+            "tagIdList": "null",
+            "categoryName": "易玩"
+          }
+        ]
+      },
+      {
+        "type": "众百",
+        "articles": [
+          {
+            "id": 18,
+            "author": "admin",
+            "title": "测试1",
+            "userId": 1,
+            "categoryId": 12,
+            "content": "",
+            "views": 0,
+            "totalWords": 0,
+            "commentableId": "null",
+            "artStatus": 1,
+            "description": "www.baidu.com",
+            "imageUrl": "http://114.117.0.103:9090/blog/blog/uploadFile/articles/6f3def8e78f8d6766f967915fffcb454.png",
+            "createTime": "2023-02-13T12:11:49",
+            "updateTime": "2023-02-13T12:12:23",
+            "tagList": [
+              {
+                "id": 8,
+                "tagName": "测试",
+                "createTime": "null",
+                "updateTime": "null"
+              }
+            ],
+            "tagIdList": "null",
+            "categoryName": "众百"
+          },
+          {
+            "id": 17,
+            "author": "admin",
+            "title": "测试",
+            "userId": 1,
+            "categoryId": 12,
+            "content": "",
+            "views": 0,
+            "totalWords": 0,
+            "commentableId": "null",
+            "artStatus": 1,
+            "description": "www.baidu.com",
+            "imageUrl": "http://114.117.0.103:9090/blog/blog/uploadFile/articles/6f3def8e78f8d6766f967915fffcb454.png",
+            "createTime": "2023-02-13T12:08:08",
+            "updateTime": "2023-02-13T12:08:08",
+            "tagList": [
+              {
+                "id": 8,
+                "tagName": "测试",
+                "createTime": "null",
+                "updateTime": "null"
+              }
+            ],
+            "tagIdList": "null",
+            "categoryName": "众百"
+          }
+        ]
+      },
+      {
+        "type": "招宝",
+        "articles": [
+          {
+            "id": 16,
+            "author": "admin",
+            "title": "消消乐",
+            "userId": 1,
+            "categoryId": 10,
+            "content": "",
+            "views": 0,
+            "totalWords": 0,
+            "commentableId": "null",
+            "artStatus": 1,
+            "description": "www.baidu.com",
+            "imageUrl": "http://114.117.0.103:9090/blog/blog/uploadFile/articles/6f3def8e78f8d6766f967915fffcb454.png",
+            "createTime": "2023-02-13T11:09:59",
+            "updateTime": "2023-02-13T11:09:59",
+            "tagList": [
+              {
+                "id": 6,
+                "tagName": "千禧",
+                "createTime": "null",
+                "updateTime": "null"
+              },
+              {
+                "id": 5,
+                "tagName": "跑酷",
+                "createTime": "null",
+                "updateTime": "null"
+              },
+              {
+                "id": 3,
+                "tagName": "财神",
+                "createTime": "null",
+                "updateTime": "null"
+              }
+            ],
+            "tagIdList": "null",
+            "categoryName": "招宝"
+          }
+        ]
+      }
+    ]
+  }
+}
